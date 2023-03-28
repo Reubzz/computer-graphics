@@ -22,8 +22,6 @@ Some `graphics.h` inbuilt functions with its parameters:
 - eg: `arc(100, 100, 0, 135, 50);`
 - output:
 
-  <img src="./assets/imgs/arc.png" width="300">
-
 ### Drawpoly
 
 - Declaration:
